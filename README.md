@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tanakit.kankangboon@gmail.com**
 
-- 📄 Know about my experiences [https://uyzagsjpoenqdjnvtqse.supabase.co/storage/v1/object/sign/portfolio/Resume_Tanakit.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwb3J0Zm9saW8vUmVzdW1lX1RhbmFraXQucGRmIiwiaWF0IjoxNjk3MTE3MDYzLCJleHAiOjE3Mjg2NTMwNjN9.Gn2tsB8bOe9x-lfAk3CeClQcKlVPseIzR_P0BT8wG7Y&t=2023-10-12T13%3A24%3A25.051Z](https://uyzagsjpoenqdjnvtqse.supabase.co/storage/v1/object/sign/portfolio/Resume_Tanakit.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwb3J0Zm9saW8vUmVzdW1lX1RhbmFraXQucGRmIiwiaWF0IjoxNjk3MTE3MDYzLCJleHAiOjE3Mjg2NTMwNjN9.Gn2tsB8bOe9x-lfAk3CeClQcKlVPseIzR_P0BT8wG7Y&t=2023-10-12T13%3A24%3A25.051Z)
+- 📄 Know about my experiences [My resume Tanakit Kankangboon](https://uyzagsjpoenqdjnvtqse.supabase.co/storage/v1/object/sign/portfolio/Tanakit%20Kanakangboon.pdf?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwb3J0Zm9saW8vVGFuYWtpdCBLYW5ha2FuZ2Jvb24ucGRmIiwiaWF0IjoxNjk3NzA4NzczLCJleHAiOjE3MjkyNDQ3NzN9.-xkuYxMFUGFdr-bi4IQ1R-yNc0nPfh8nBPZyL8nLa0U&t=2023-10-19T09%3A46%3A14.855Z)
 
 - ⚡ Fun fact **I consider myself a fast learner, dedicated to working diligently and embracing the balance of work and play. I value discipline and responsibility, traits that guide my approach in both professional and personal endeavors.**
 
