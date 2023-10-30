@@ -27,5 +27,3 @@ I am pleased to inform you that I have successfully completed a comprehensive Fu
 <b>My GitHub Stats</b>
 
 ![paperint's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paperint&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-![paperint's Streak](https://github-readme-streak-stats.herokuapp.com/?user=paperint&theme=vue-dark&hide_border=true)
