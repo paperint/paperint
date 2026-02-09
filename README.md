@@ -30,7 +30,7 @@ Passionate about building high-performance, user-centric web & mobile applicatio
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=paperint)](https://git.io/streak-stats)
+[![Nu's GitHub stats](https://github-readme-stats.vercel.app/api?username=paperint)](https://github.com/paperint/github-readme-stats)
 
 ---
 
