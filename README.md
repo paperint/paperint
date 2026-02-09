@@ -1,9 +1,5 @@
 # Hi there! I'm Tanakit Kankangboon (Nu) 👋
 
-<p align="left">
-  <img src="https://visit-counter.vercel.app/counter.png?page=paperint" alt="Views" />
-</p>
-
 **Full Stack Developer | AI & Mobile Enthusiast**
 Passionate about building high-performance, user-centric web & mobile applications. I bridge the gap between complex backend logic and seamless frontend UX with a focus on scalability and security.
 
