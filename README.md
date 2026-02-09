@@ -30,9 +30,7 @@ Passionate about building high-performance, user-centric web & mobile applicatio
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paperint&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+[![Nu's GitHub stats](https://github-readme-stats.vercel.app/api?username=paperint)](https://github.com/paperint/github-readme-stats)
 
 ---
 
