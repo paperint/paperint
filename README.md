@@ -18,7 +18,7 @@ Passionate about building high-performance, user-centric web & mobile applicatio
 - **Flutter** (Mobile App Development)
 
 **Backend & Database**
-- Node.js, Express, NestJS, ElysiaJA, PostgreSQL, MongoDB
+- Node.js, Express, NestJS, ElysiaJS, PostgreSQL, MongoDB
 - Prisma ORM, Firebase, Supabase
 
 **Specialized & DevOps**
