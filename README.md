@@ -7,25 +7,24 @@ Passionate about building high-performance, user-centric web & mobile applicatio
 
 ### 🚀 About Me
 - 📍 Based in **Bangkok, Thailand**
-- 💼 **1+ years** in Intensive Development | **4 years** in Organizational Excellence
-- 🧠 Currently deep-diving into: **TypeScript, NuxtJS, and Prisma**
+- 💼 **2+ years** in Intensive Development | **4 years** in Organizational Excellence
 - ⚡ Fast learner with a strong sense of discipline and responsibility.
 - 🎨 Fun fact: I balance hard work with play and value a healthy work-life integration.
 
 ### 🛠️ Tech Stack & Skills
 
 **Frontend & Mobile**
-- React, Next.js, Tailwind CSS, Chakra UI, Material UI
+- React, Next.js, Tailwind CSS, Shadcn UI, Material UI
 - **Flutter** (Mobile App Development)
 
 **Backend & Database**
-- Node.js, Express, PostgreSQL, MongoDB
+- Node.js, Express, NestJS, ElysiaJA, PostgreSQL, MongoDB
 - Prisma ORM, Firebase, Supabase
 
 **Specialized & DevOps**
 - **AI Integration:** LLMs (Ollama), System Prompt Engineering, Real-time Streaming API
 - **Payments:** Omise Payment Gateway Integration
-- **Infrastructure:** Docker (Containerization), AWS S3 (Cloud Storage)
+- **Infrastructure:** Docker (Containerization), AWS
 - **Performance:** SEO Optimization, Web Performance Tuning
 
 ---
