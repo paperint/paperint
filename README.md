@@ -1,29 +1,53 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanakit Kankangboon (Nu)
-================================================================================================================================================
-
-I am pleased to inform you that I have successfully completed a comprehensive Full Stack Developer Bootcamp, equipping myself with a robust foundation in both front-end and back-end technologies.
-
-* 🌍  I'm based in Chiang Mai, Thailand.
-* 🖥️  See my portfolio at [MyPortfolio](http://wondrous-churros-b3c5a6.netlify.app)
-* ✉️  You can contact me at [tanakit.kankangboon@gmail.com](mailto:tanakit.kankangboon@gmail.com)
-* 🧠  I'm learning Typescript,VueJS,NuxtJS,Prisma
-* ⚡  I consider myself a fast learner, dedicated to working diligently and embracing the balance of work and play. I value discipline and responsibility, traits that guide my approach in both professional and personal endeavors.
-
-### Skills
-
+# Hi there! I'm Tanakit Kankangboon (Nu) 👋
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/> </a><a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="36" height="36"/> </a>
+  <img src="https://visit-counter.vercel.app/counter.png?page=paperint" alt="Views" />
 </p>
 
+**Full Stack Developer | AI & Mobile Enthusiast**
+Passionate about building high-performance, user-centric web & mobile applications. I bridge the gap between complex backend logic and seamless frontend UX with a focus on scalability and security.
 
-### Socials
+---
 
+### 🚀 About Me
+- 📍 Based in **Bangkok, Thailand**
+- 💼 **1+ years** in Intensive Development | **4 years** in Organizational Excellence
+- 🧠 Currently deep-diving into: **TypeScript, NuxtJS, and Prisma**
+- ⚡ Fast learner with a strong sense of discipline and responsibility.
+- 🎨 Fun fact: I balance hard work with play and value a healthy work-life integration.
+
+### 🛠️ Tech Stack & Skills
+
+**Frontend & Mobile**
+- React, Next.js, Tailwind CSS, Chakra UI, Material UI
+- **Flutter** (Mobile App Development)
+
+**Backend & Database**
+- Node.js, Express, PostgreSQL, MongoDB
+- Prisma ORM, Firebase, Supabase
+
+**Specialized & DevOps**
+- **AI Integration:** LLMs (Ollama), System Prompt Engineering, Real-time Streaming API
+- **Payments:** Omise Payment Gateway Integration
+- **Infrastructure:** Docker (Containerization), AWS S3 (Cloud Storage)
+- **Performance:** SEO Optimization, Web Performance Tuning
+
+---
+
+### 📊 GitHub Stats
 <p align="left">
-<a href="https://discord.com/users/.nuuuuuu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/paperint" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tanakit-kankangboon-32329b1a5/?_l=en_US" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paperint&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 📬 Connect with Me
+<p align="left">
+  <a href="mailto:tanakit.kankangboon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tanakit-kankangboon-32329b1a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.com/users/.nuuuuuu"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="http://wondrous-churros-b3c5a6.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
 
-![paperint's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paperint&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+---
+*“Coding with discipline, building with passion.”*
